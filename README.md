@@ -1,4 +1,4 @@
-# IP_PINGER_py
+# IP_PINGER
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![License GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
