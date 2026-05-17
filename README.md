@@ -1,8 +1,8 @@
 # IP_PINGER_py
 
-[https://img.shields.io/badge/Made%20with-Python-1f425f.svg]
-[https://img.shields.io/badge/License-GPL%20v3-blue.svg]
-[https://img.shields.io/badge/Status-Active-brightgreen.svg]
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![License GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+![Status Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 A customizable terminal-based network diagnostics and connection stress-testing tool built in Python. It features custom payload generation, real-time latency auditing, multithreaded port scanning capabilities, and persistence mechanisms to ensure the interface stays open after process completion or unhandled runtime faults.
 
