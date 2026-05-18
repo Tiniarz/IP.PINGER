@@ -33,4 +33,4 @@ pip install colorama
 
 To launch the utility inside a dedicated terminal layer or virtualization interface, initialize the runtime file:
 
-python IP_PINGER.py
+python IP.PINGER.py or python IP.PINGERVx.py
