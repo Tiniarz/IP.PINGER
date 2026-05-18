@@ -1,0 +1,2 @@
+So apparently the ASCII art which was made to make a name for the tool. Looks ugly on other devices. It's because the ASCII was only optimized to be perfectly aligned on windows
+At V3 I will add an update where the ascii will be automatically optimized to be perfect on every device on phones like termux etc the text won't fit at all. So at V3 termux or other phone terminals will have a satellite icon instead to appetite users. Stay tuned for a massive redesign 
